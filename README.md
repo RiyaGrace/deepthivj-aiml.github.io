@@ -1,21 +1,21 @@
 # deepthivj-aiml.github.io
 
-# LABS
+# LABS-
 
-LAB1-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/bca40b1282f57866257e067174ad967aecb2ad51
+LAB1-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab1.ipynb
 
-LAB2-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/3f28262140d8856785858ae4aada25b0db6e82c8
+LAB2-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab2.ipynb
 
-LAB3-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/8dad3c131ed882f2ab05b7c867f89db0f3d0f39c
+LAB3-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab3.ipynb
 
 # ASSIGNMENTS-
 
-Most frequently used word using frequency-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/460bae25fea6985e1e005cbb18e1636bf14871d1
+1-Most frequently used word using frequency-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Most_frequently_used_word.ipynb
 
-Explore-coca-corpus-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/9cffe0b6d20ea157a9ca1029a788cd22374eb129
+2-Explore-coca-corpus-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/explore_coca_corpus.docx.pdf
 
-SnowballStemming-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/01acdce55999e0ff6f605d79499904a3ffd68058
+3-SnowballStemming-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/snowballstemming.ipynb
 
-POS-Tagging-in-corpus-data-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/c10dd93ed996518e3ec0c59dbf0be32313c7f8c7
+4-POS-Tagging-in-corpus-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/pos-tagging-corpus-data.ipynb
 
-cosine similarity between 2 documents-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/commit/bcb7a0c64a4f8b92366ac444193f794dadc6f81c
+5-cosine similarity between 2 documents-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/distance_between_2_documennts.ipynb
