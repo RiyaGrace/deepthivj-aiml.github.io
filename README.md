@@ -29,6 +29,7 @@ LAB3-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab3
 
 # Tasks-
 1-Embedding
+
 Embedding(done in lab)-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Embedding.ipynb
 
 Embedding(Extra work)-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Embedding(extra-work).ipynb
