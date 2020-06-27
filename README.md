@@ -2,7 +2,7 @@
 # 19MAI0047
 # DEEPTHI V J
 
-#MINI PROJECT REVIEW 1-
+# MINI PROJECT REVIEW 1-
 
 # LABS-
 
@@ -25,7 +25,7 @@ LAB3-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab3
 5-cosine similarity between 2 documents-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/distance_between_2_documennts.ipynb
 
 
-#MINI PROJECT REVIEW 2-
+# MINI PROJECT REVIEW 2-
 
 # Tasks-
 1-Embedding
@@ -42,4 +42,4 @@ Embedding(Extra work)-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io
 
 # Homework-
 
-Named entity recognition using web scraping-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab1.ipynb
+Named entity recognition using web scraping-https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/NER_WEB_SCRAPING.ipynb
